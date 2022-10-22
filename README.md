@@ -4,10 +4,12 @@
 To implement a perceptron for classification using Python
 
 **EQUIPMENTS REQUIRED:**
+
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
 **RELATED THEORETICAL CONCEPT:**
+
 Exclusive or is a logical operation that outputs true when the inputs differ.For the XOR gate, the TRUTH table will be as follows
 XOR truth table
 ![Img1](https://user-images.githubusercontent.com/112920679/195774720-35c2ed9d-d484-4485-b608-d809931a28f5.gif)
@@ -40,6 +42,7 @@ Step 3: Repeat the  iteration  until the losses become constant and
 Step 4 : Test for the XOR patterns.
 
 ** PROGRAM** 
+
 ```
 Name: Vishranthi.A
 No: 212221230124
@@ -132,11 +135,21 @@ predict(w1,w2,test)
 ```
 
  **OUTPUT** 
+
+
 Loss Graph
+
+
 ![Loss_graph](https://user-images.githubusercontent.com/93427278/197332723-5bf98984-0e67-4daf-9f1a-d48e777703b1.png)
 
+
+
 Input - Output for XOR Gate
+
+
 ![IO_for_XOR_gate](https://user-images.githubusercontent.com/93427278/197332709-6a512b8c-8bce-4c85-b15a-5ebc4e7afd7c.png)
 
-** RESULT**
+** RESULT **
+
+
 Thus a MLP is implemented for non linear separable problem using Python.
